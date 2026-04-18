@@ -48,7 +48,7 @@ cd credit-card-fraud-detection
 pip install -r requirements.txt
 streamlit run app.py
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Dashboard
 ![Main](main.png)
