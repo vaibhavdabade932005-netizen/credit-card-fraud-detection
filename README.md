@@ -47,3 +47,11 @@ git clone https://github.com/your-username/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 pip install -r requirements.txt
 streamlit run app.py
+
+## 📸 Screenshots
+
+### Main Dashboard
+![Main](main.png)
+
+### Prediction Result
+![Result](result.png)
